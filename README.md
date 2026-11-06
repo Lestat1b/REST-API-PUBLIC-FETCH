@@ -1,2 +1,3 @@
 # REST-API-PUBLIC-FETCH
 Module 4 assignment 1
+I thought it was pretty cool that their was a data base you could retrieve the NHTSA from. Being able to create a JSON to use that data was fun.One thing that surprised me was how much data an API can return and how useful filtering is for getting only the information I need. My code evolved from simply retrieving API data to processing and returning a more specific set of results. I now better understand Flask routes, GET and POST requests, JSON data, HTTP status codes, and exception handling. I would like to learn more about designing APIs and working with APIs that support creating and updating data.
